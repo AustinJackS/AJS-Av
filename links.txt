@@ -1,1 +1,4 @@
-https://austinjacks.github.io/crashtests/*
+https://austinjacks.github.io/crashtests/
+http://malware.com/
+https://malware.com/
+
