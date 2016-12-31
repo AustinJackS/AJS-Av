@@ -1,4 +1,3 @@
-['austinjacks.github.io/crashtests/',
-'malware.com/',
-'malware.com/']
+['austinjacks.github.io/crashtest/',
+'malware.com']
 
