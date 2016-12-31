@@ -1,4 +1,4 @@
-https://austinjacks.github.io/crashtests/
-http://malware.com/
-https://malware.com/
+['austinjacks.github.io/crashtests/',
+'malware.com/',
+'malware.com/']
 
